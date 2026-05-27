@@ -1,7 +1,7 @@
 # migrate-from-github
 
 script cuz why not (for ppl who value time and wanna automate life)
----
+
 ## migration script for codeberg
 
 ### TO RUN
